@@ -1,5 +1,5 @@
 # RaspberryPi-Webserver
-Flask app to deploy web scrapper application to a dynamic website. Socketio is used in order to provide real-time updates to user.
+Flask app to deploy web scrapper application to a dynamic website. Socketio is used in order to provide real-time updates to user.This web server will ultimately be hosted on a Raspberry Pi.
 
 ### Back-end ( FLASK)
 
